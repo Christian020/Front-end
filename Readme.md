@@ -6,7 +6,7 @@ Bienvenido al Restaurante la Delicia, es un sistema de venta POS que permite a l
 # Repositorios
 
 ### [Repositorio Frontend](https://github.com/Christian020/Front-end.git)
-En este repositorio esta el codigo fuente de el front-end se realizó con html, javascript, css, y bootstrap.
+En este repositorio esta el código fuente de el front-end se realizó con html, javascript, css, y bootstrap.
 
 ### [Repositorio Backend Consultas](https://github.com/Christian020/Back-end.git)
 En este repositorio esta el código fuente de el back-end que se agregaron paquetes donde están almacenados Los Entitys, Repositorys, IServices, Services, Controladores y DTO.
